@@ -3,7 +3,7 @@
 > **Undergraduate Mathematics Thesis at University of North Carolina at Charlotte**  
 > **Primarily Advised by:** Christian Kuemmerle  
 > **Advised by:** Dr. Shaozhong Deng  
-> **Reader:** Xinje Li
+> **Reader:** Dr Xingjie (Helen) Li 
 
 This repository contains implementations of algorithms for Sparse Coding and Dictionary Learning, specifically Iteratively Reweighted Least Squares (IRLS) and K-SVD.
 
