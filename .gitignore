@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets
+data/BSDS*
+data/images/
+
+# Outputs
+checkpoints/
+superres_results/
+plots/
+sr_inference_results/
+test_corrupted_input.png
+test_original.png
+test_text_removed_output.png
